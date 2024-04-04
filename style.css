@@ -502,6 +502,7 @@ nav{
         
         height: 800px;
         width: 700px;
+        margin-bottom: -510px;
         background-repeat: no-repeat;
         border-image-outset: 400px;
         margin-right: 200px;
@@ -572,6 +573,7 @@ nav{
         height: 400px;
         width: 340px;
         height: 320px;
+        margin-bottom: -180px;
        
     }
     .popcorns{
@@ -584,11 +586,13 @@ nav{
         background-image: url(photos/leave33.jpeg);
         background-size: 200px 800px;
         background-repeat: no-repeat;
-        background-size: 1900px, 1100px;
-        height: 200px;
-        width: 100px;
+        background-size: 250px, 500px;
+        height: 400px;
+        width: 400px;
         text-align: center;
-        background-size: 100px 400px;
+        background-size: 130px 100px;
+        margin-top: 250px;
+        margin-bottom: -240px;
     }
     .pots{
       display: flex;
@@ -696,6 +700,8 @@ nav{
     .peg{
         height: 200px;
         width: 170px;
+        height: 180px;
+        width: 150px;
     }
     .range{
         font-size: 14px;
